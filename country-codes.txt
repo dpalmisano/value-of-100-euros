@@ -1,0 +1,1 @@
+'AL','AD','AT','BY','BE','BA','BG','HR','CY','CZ','DK','EE','FO','FI','FR','DE','GI','EL','HU','IS','IE','IT','LV','LI','LT','LU','MK','MT','MD','MC','NL','NO','PL','PT','RO','SM','RS','SK','SI','ES','SE','CH','UA','UK','VA','RS','IM','RS','ME','TR'
